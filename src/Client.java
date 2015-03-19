@@ -1,5 +1,6 @@
 
 public class Client {
 	
-	private String bambibunghole;
+	private String bambi;
+	private int bambiloss;
 }
